@@ -2,7 +2,7 @@
 - 👀 I’m interested in computervision, autonomous driving, robotics and physics.
 - 🌱 I’m currently studding at the BRG14 in Vienna.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 [How to reach me ...](https://bio.link/markuspf)
 
 <!---
 Oberstlt/Oberstlt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
